@@ -1,0 +1,9 @@
+{
+    "name": "jcabezas/patrones-diseno-php",
+    "description": "Ejemplos de patrones de diseño en PHP.",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
